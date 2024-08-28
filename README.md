@@ -1,5 +1,5 @@
 ## Bienvenue 👋 Je suis Louis Joseph Laberge.
-----------------------------------------------------------------------FRANÇAIS----------------------------------------------------------------------
+-------------------------------------------------------------------------FRANÇAIS------------------------------------------------------------------------
 
 Je suis gradué en génie biomédical (CPI) qui travaille présentement dans le domaine du logiciel embarqué.
 Ici se trouve mon portfolio où je développe mes compétences techniques dans mes temps libres à travers des projets.
@@ -20,7 +20,7 @@ Voici une description de mes compétences techniques :
 ⚙️  VCS : GitHub, SourceTree
 
 
---------------------------------------------------------------ENGLIGH---------------------------------------------------------------------------------
+------------------------------------------------------------------------ENGLIGH------------------------------------------------------------------------
 
 I'm a biomedical engineering graduate from Polytechnique Montreal (CPI) currently working in the field of embedded software
 This is my project portfolio where I aim to develop my technical skills in my free time through projects.
