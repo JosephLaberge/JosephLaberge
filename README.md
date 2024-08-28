@@ -1,8 +1,7 @@
-## Welcome 👋 I'm Louis Joseph Laberge.
+## Bienvenue 👋 Je suis Louis Joseph Laberge.
 ---------------------------------------------------ENGLIGH WILL FOLLOW---------------------------------------------------------
 
 Je suis gradué en génie biomédical (CPI) qui travaille présentement dans le domaine du logiciel embarqué.
-
 Ici se trouve mon portfolio où je développe mes compétences techniques dans mes temps libres à travers des projets.
 
 🔭 Je travaille présentement sur un Robot Auto-Équilibré utilisant FreeRTOS
@@ -24,7 +23,6 @@ Voici une description de mes compétences techniques :
 ----------------------------------------------------ENGLIGH--------------------------------------------------------------------
 
 I'm a biomedical engineering graduate from Polytechnique Montreal (CPI) currently working in the field of embedded software
-
 This is my project portfolio where I aim to develop my technical skills in my free time through projects.
 
 🔭 I’m currently working on a Self Balancing robot using FreeRTOS
